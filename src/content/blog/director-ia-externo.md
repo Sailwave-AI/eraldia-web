@@ -1,7 +1,7 @@
 ---
 title: "¿Necesita tu empresa un director de IA? Cuándo sí, cuándo no y qué alternativas hay"
 description: "Qué hace de verdad un director de IA (CAIO), por qué la jornada completa suele ser prematura entre 50 y 500 empleados, y qué alternativas hay en 2026."
-date: 2026-01-01
+date: 2026-08-24
 tags: ["estrategia", "dirección de ia", "caio", "medianas empresas", "gobierno"]
 categories: ["estrategia"]
 ---
