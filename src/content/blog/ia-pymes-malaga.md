@@ -1,7 +1,7 @@
 ---
 title: "IA para pymes en Málaga y la Costa del Sol: por dónde empezar en 2026"
 description: "Guía práctica para pymes de Málaga y la Costa del Sol que quieren empezar con IA en 2026: qué automatizar primero en turismo, comercio e inmobiliario, cómo hacerlo con precio cerrado y qué ayudas hay en Andalucía."
-date: 2026-01-01
+date: 2026-08-27
 tags: ["málaga", "costa del sol", "andalucía", "ia", "pymes"]
 categories: ["guías"]
 ---
