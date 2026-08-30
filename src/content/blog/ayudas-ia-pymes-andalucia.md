@@ -1,7 +1,7 @@
 ---
 title: "Ayudas para digitalizar tu pyme andaluza con IA: por dónde empezar en 2026"
 description: "Qué ayudas puede aprovechar una pyme de Andalucía para automatizar con IA en 2026: Kit Digital, programas de la Junta de Andalucía y apoyos provinciales en Córdoba, Sevilla y Málaga, explicado sin letra pequeña."
-date: 2026-01-01
+date: 2026-08-30
 tags: ["ayudas", "subvenciones", "ia", "pymes", "andalucía"]
 categories: ["guías"]
 ---
